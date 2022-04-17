@@ -1,0 +1,6 @@
+- Available offline (use local storage/sync after getting online)
+- All functionality available with keyboard shortcuts
+- JSON data format
+- Plugins for all major browsers
+	- How about mobile?
+	-
